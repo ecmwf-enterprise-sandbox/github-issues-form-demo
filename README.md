@@ -9,3 +9,6 @@ up: https://github.com/community/community/discussions/4264
 This repo demos how a GitHub Issues form could look.
 
 Syntax docs: https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms
+
+It's possible to set Issues form templates at the organisation level by creating a `.github` repo
+like this: https://github.com/conda-forge/.github/tree/main/.github/ISSUE_TEMPLATE
