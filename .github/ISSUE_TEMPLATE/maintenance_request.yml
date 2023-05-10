@@ -1,6 +1,5 @@
 name: Maintenance request
 description: Request a dependency upgrade or a documentation improvement.
-title: ""
 labels: []
 body:
   - type: textarea
