@@ -1,5 +1,5 @@
 blank_issues_enabled: true
 contact_links:
   - name: User support issue
-    url: https://put-some-link-here-to-user-support.com
-    about: Need help with your installation? Reach out to our user support.
+    url: https://confluence.ecmwf.int/site/support
+    about: Need help installing or running ECMWF software? Reach out to user support.

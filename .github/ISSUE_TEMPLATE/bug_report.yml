@@ -1,6 +1,6 @@
 name: Bug Report
-description: File a bug report
-title: "[Bug]: "
+description: Report a bug in our software.
+title: ""
 labels: ["bug"]
 body:
   - type: markdown
@@ -62,11 +62,3 @@ body:
     attributes:
       label: Accompanying data
       description: Please share a link to any data files you used when reproducing the issue.
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: A checkbox to agree to a code of conduct or terms and conditions
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
-      options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
